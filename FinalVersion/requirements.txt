@@ -1,0 +1,7 @@
+customtkinter
+selenium
+newspaper
+tweepy
+nltk
+regex
+
